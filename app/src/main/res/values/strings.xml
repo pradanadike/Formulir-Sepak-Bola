@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Formulir Sepak Bola</string>
+    <string-array name="Nama_Negara">
+
+        <item>Jepang</item>
+        <item>Malaysia</item>
+        <item>India</item>
+        <item>Korea</item>
+        <item>Inggris</item>
+        <item>Belanda</item>
+        <item>Itali</item>
+        <item>Perancis</item>
+        <item>Rusia</item>
+    </string-array>
+</resources>
