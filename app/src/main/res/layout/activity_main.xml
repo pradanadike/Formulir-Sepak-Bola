@@ -5,7 +5,7 @@
     android:layout_height="match_parent">
 
     <LinearLayout
-        android:layout_width="match_parent"
+    android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#a73a62"
         android:orientation="vertical"
@@ -18,7 +18,7 @@
 
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="match_parent"
+        android:layout_width="match_parent"
             android:layout_height="125dp"
             android:src="@drawable/minimal_football_logos_20" />
 
@@ -125,22 +125,22 @@
 
             <RadioButton
                 android:id="@+id/radioButtonLK"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_weight="0.73"
-                android:buttonTint="@color/your_color"
-                android:checked="false"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.73"
+            android:buttonTint="@color/your_color"
+            android:checked="false"
                 android:text="Laki-Laki"
-                android:textColor="#ffffff" />
+            android:textColor="#ffffff" />
 
             <RadioButton
                 android:id="@+id/radioButtonPM"
-                android:layout_width="wrap_content"
+            android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:buttonTint="@color/your_color"
-                android:checked="false"
+            android:buttonTint="@color/your_color"
+            android:checked="false"
                 android:text="Perempuan"
-                android:textColor="#ffffff" />
+            android:textColor="#ffffff" />
         </RadioGroup>
 
         <TextView
